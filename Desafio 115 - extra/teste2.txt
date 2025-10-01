@@ -1,0 +1,4 @@
+Agora usando o bloco with.
+É mais seguro e mais limpo!
+Esta é uma nova linha, adicionada depois.
+O modo "a" é muito útil.
